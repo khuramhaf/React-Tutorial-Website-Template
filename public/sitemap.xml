@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.reactdeveloper.pk/</loc>
+  <lastmod>2023-01-08T11:35:14+00:00</lastmod>
+</url>
+<url>
+  <loc>https://www.reactdeveloper.pk/blogs</loc>
+  <lastmod>2023-01-09T11:35:14+00:00</lastmod>
+</url>
+<url>
+  <loc>https://www.reactdeveloper.pk/blogs/react-seo</loc>
+  <lastmod>2023-01-09T11:35:14+00:00</lastmod>
+</url>
+
+<url>
+  <loc>http://www.reactdeveloper.pk/programming-tutorials</loc>
+  <lastmod>2023-01-09T11:35:14+00:00</lastmod>
+</url>
+<url>
+  <loc>https://www.reactdeveloper.pk/react-tutorial/what-is-react</loc>
+  <lastmod>2023-01-12T11:35:14+00:00</lastmod>
+</url>
+<url>
+  <loc>https://www.reactdeveloper.pk/react-tutorial/how-to-use</loc>
+  <lastmod>2023-01-12T11:35:14+00:00</lastmod>
+</url>
+<url>
+  <loc>https://www.reactdeveloper.pk/react-tutorial/components-in-react</loc>
+  <lastmod>2023-01-12T11:35:14+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://www.reactdeveloper.pk/react-tutorial/state-in-react</loc>
+  <lastmod>2023-01-12T11:35:14+00:00</lastmod>
+</url>
+
+<url>
+  <loc>https://www.reactdeveloper.pk/react-tutorial/props-in-react</loc>
+  <lastmod>2023-01-12T11:35:14+00:00</lastmod>
+</url>
+
+
+</urlset>
